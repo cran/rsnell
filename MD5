@@ -1,0 +1,11 @@
+9a70cc47672442f3fd2ef629115c63d6 *DESCRIPTION
+21dbce8a36270c86c598d70dcbada2f1 *LICENSE
+cf33102b7f3a02ddacf87d06b1a6cb1f *NAMESPACE
+9273088e998a83a0c3e126710c855833 *R/HelperFunctions.R
+654577e27833ea2acadab93accc801ce *R/buildfreqtable.R
+2a64bd75cbdaa565459bf22742cc845f *R/snell.R
+bf684917215f59ddbbcc0bee95a5c12d *README.md
+f585b11d1483a67eee6c542fb88f92fc *man/buildfreqtable.Rd
+b17c08e209f45789072eb48cb37b8726 *man/snell.Rd
+4b2d5d975ef8162f234e818725eb086c *tests/Snell1964_ComputationExample.xlsx
+19eb71d061031a6c8fdda6d738d109e3 *tests/test_snell.Rmd
